@@ -1,0 +1,32 @@
+.mail-form {
+    margin: 50px auto;
+    width: 500px;
+}
+
+.mail-form__field {
+    margin: 20px 0;
+}
+
+.mail-form__input-user-email {
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 4px;
+    border: 1px solid #e5e5e5;
+    font-size: 16px; 
+}
+
+.mail-form textarea {
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 4px;
+    border: 1px solid #e5e5e5;
+    font-size: 16px;
+}
+
+.mail-form .error {
+    color: red;
+    font-size: 0.8em;
+    margin: 5px 0;
+}

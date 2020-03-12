@@ -1,0 +1,44 @@
+.app {
+    margin-bottom: 40px;
+}
+
+.app .container {
+    width: 1000px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.portfolio {
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0em -2em 4em 0em white inset;
+    background-color: #e4f0e8be;
+}
+
+.portfolio .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contacts {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.button {
+    padding: 0 20px;
+    border-radius: 4px;
+    height: 60px;
+    background: #003D75;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+hr {
+    border-color: #e5e5e5;
+}
